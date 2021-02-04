@@ -1,8 +1,9 @@
 # Code in a Day
 
-## Prerequisites
-- IDE (Integrated Development Environment)
-- Google Chrome or Firefox Browser
+## Tools
+- IDE (Integrated Development Environment): [CodeSandbox.io](https://codesandbox.io/)
+- Browser: Google Chrome or Firefox
+- Search Engine: Google
 
 ## HTML
 HTML stands for Hypertext Markup Language.
