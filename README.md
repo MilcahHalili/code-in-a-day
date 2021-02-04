@@ -52,7 +52,15 @@ There are, unfortunately, plenty of gaps in the semantic elements available to u
 [Web Accessibility Initiative - Accessible Rich Internet Applications](https://www.w3.org/TR/wai-aria-1.1/) is a very large set of tools that we can use to inject that missing semantic information into the accessibility tree before it gets handed off to assistive tech. 
 
 ## CSS
-CSS stands for Cascading Style Sheets.
+CSS stands for Cascading Style Sheets. Stylings set for a parent element cascade down to its children. For example, if a dev styles the font color of the body tag, all elements within the body tag will be styled with the same color.
+
+### CSS Box Model
+[CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) consistents of 4 components. The following components are listed in order of the highest parent container to the innermost child, or contained, elements:
+
+1. Margin
+2. Border
+3. Padding
+4. Content
 
 ### Inline Styling
 Devs can implement inline styling by using the `style` attribute inside HTML elements.
