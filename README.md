@@ -84,3 +84,12 @@ Devs can implement external styling by using a `<link>` element to link to an ex
   <link rel="stylesheet" href="styles.css">
 </head>
 ```
+
+## Hungry for More
+-[Introduction to HTML](https://scrimba.com/learn/html) by Scrimba with Eric Vida
+-[Webflow University](https://university.webflow.com/)
+-[Flexbox Zombies](https://mastery.games/flexboxzombies/)
+-[Flexbox Froggy](http://flexboxfroggy.com/)
+-[Grid Garden](https://cssgridgarden.com/)
+-[What the Flexbox?!](https://flexbox.io/) by Wes Bos
+-[CSS Grid](https://cssgrid.io/) by Wes Bos
